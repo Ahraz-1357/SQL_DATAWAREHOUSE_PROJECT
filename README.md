@@ -50,7 +50,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-HI I am Mohd Ahraz Mansoori , A coolege student who really intrested to learn about data and and how data is generating insights and interested to help businesses and this is my first project a great thanks to **data with barra ** for this project by making tgis project with him it helps to understand about the data alot 
+HI I am Mohd Ahraz Mansoori , A college student who really intrested to learn about data and  how data is generating insights and interested to help businesses and this is my first project a great thanks to **data with barra ** for this project by making this project with him it helps to understand about the data alot 
 thankyou data with barra
 
 ---
